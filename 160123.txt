@@ -1,0 +1,28 @@
+dhiajaouadi333@gmail.com	50787570
+gasmimed1919@gmail.com		29632638
+Maher JOAUADI			98451795
+
+VSCode
+Github
+
+Outil web-mobile (web responsive) pour la gestion de l'activité d'une entreprise de batiments
+
+
+Affaires 	Chantiers 	Etudes-conseil		Soustraitance
+		Réalisation	Conception
+
+Taches		
+Ressources	humaines	Matériel	Outils
+
+Planning	affectation d'une ressource à une taches
+Comparaison du planifié par rapport au réel
+
+???
+Gestion des affaire
+Gestion des ressources
+Pointage des ressources
+Calcul du Coût de l'activité	
+
+UML
+Use case
+Class diagram
